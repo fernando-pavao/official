@@ -3052,7 +3052,7 @@ input, select, textarea {
 			-webkit-justify-content: center;
 			-ms-justify-content: center;
 			justify-content: center;
-			width: 50em;
+			width: 100em;
 			-ms-flex: 1;
 		}
 
@@ -3067,6 +3067,7 @@ input, select, textarea {
 				-ms-transition: opacity 1s ease, -ms-transform 1s ease;
 				transition: opacity 1s ease, transform 1s ease;
 				opacity: 1;
+								
 			}
 
 		.spotlights > section:nth-child(2) {
@@ -3881,10 +3882,11 @@ input, select, textarea {
 
 	#intro {
 		background-attachment: fixed;
-		background-image: url("images/piano-1835179_1920.jpg"); 
+		/* background-image: url("images/piano-1835179_1920.jpg"); */
+		background-image: url("images/foto1.jpeg");
 		background-position: top right;
 		background-repeat: no-repeat;
-		background-size: 100% 100%;
+		background-size: 60% 100%;
 	}
 
 		#intro p {
