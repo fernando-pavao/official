@@ -3247,15 +3247,15 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #3a3c40;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #000000;
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #26272a;
 		}
 
 		.wrapper.style2-alt {
@@ -3882,12 +3882,12 @@ input, select, textarea {
 
 	#intro {
 		background-attachment: fixed;
-		background-image: url("images/piano-1835179_1920.jpg"); 
-		/* background-image: url("images/foto1.jpeg"); */
+		/* background-image: url("images/piano-1835179_1920.jpg"); */
+		background-image: url("images/foto-piano1.jpg"); 
 		background-position: top right;
 		background-repeat: no-repeat;
 		/*background-size: 50% 100%; */
-		background-size: 100% 100%;
+		background-size: 45% 100%;
 	}
 
 		#intro p {
